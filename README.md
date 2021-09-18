@@ -1,3 +1,3 @@
 <img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=javiervidrua&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/> <img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javiervidrua&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=javiervidrua.github.io&hide=Makefile&bg_color=10,904e95,e96443&title_color=fff&text_color=fff"/>
 
-Do you like this? Then check out my pal [nonuser](http://github.com/n0nuser). He made it!
+Do you like this? Then check out my pal [nonuser](http://github.com/n0nuser). I got it from him!
